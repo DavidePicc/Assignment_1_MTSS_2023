@@ -3,7 +3,8 @@
 
 # Inventario
 
-* [Schede madri](./schede_madri.md)
-* [Processori](./processori.md)
+## Componenti
+* [Schede madri](./componenti/schede_madri.md)
+* [Processori](./componenti/processori.md)
 
 Elettronica Padovana
