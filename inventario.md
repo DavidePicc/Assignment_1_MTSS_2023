@@ -8,5 +8,6 @@
 * [Processori](./componenti/processori.md)
 
 ## Periferiche
+* [Tastiere](./periferiche/tastiere.md)
 
 Elettronica Padovana
